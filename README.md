@@ -1,7 +1,6 @@
 # Block Restrictions Plugin
 *A Minecraft (1.16.5) plugin for restricting block actions*
 
-![GitHub License](https://img.shields.io/github/license/wtf-flonxi/block-restrictions)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.5-brightgreen)
 
 ## Features
