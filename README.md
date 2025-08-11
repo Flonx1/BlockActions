@@ -1,10 +1,6 @@
 Block Restrictions Plugin
 *A Minecraft (1.16.5) plugin to restrict block breaking, placing, crafting, and enchanting with fine-grained control.*
 
-https://img.shields.io/github/license/wtf-flonxi/block-restrictions?style=flat-square
-https://img.shields.io/badge/Spigot-1.16.5-yellow?style=flat-square
-https://img.shields.io/badge/Java-11%252B-blue?style=flat-square
-
 📖 Description
 This plugin allows server administrators to restrict specific player actions with configurable permissions and messages. Key features:
 
