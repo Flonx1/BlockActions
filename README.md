@@ -1,32 +1,20 @@
-Block Restrictions Plugin
-*A Minecraft (1.16.5) plugin to restrict block breaking, placing, crafting, and enchanting with fine-grained control.*
+# Block Restrictions Plugin
+*A Minecraft (1.16.5) plugin for restricting block actions*
 
-📖 Description
-This plugin allows server administrators to restrict specific player actions with configurable permissions and messages. Key features:
+![GitHub License](https://img.shields.io/github/license/wtf-flonxi/block-restrictions)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.5-brightgreen)
 
-Block breaking/placing restrictions
+## Features
+- Block breaking/placing restrictions
+- Crafting recipe blocking
+- Enchantment control
+- Permission-based bypasses
+- Customizable messages
 
-Custom crafting recipe blocking (by slot + material)
+## Installation
+1. Download the latest `.jar` from Releases
+2. Place in `plugins/` folder
+3. Restart server
 
-Enchantment control (block or replace restricted enchants)
-
-Multi-language support (messages fully configurable)
-
-Perfect for survival servers, minigames, or protected zones!
-
-✨ Features
-✅ Block Breaking/Placing – Blacklist specific blocks
-✅ Smart Crafting Restrictions – Block recipes by material and crafting grid position
-✅ Enchantment Control – Block or replace restricted enchants
-✅ Permission System – Bypass options for staff/trusted players
-✅ Custom Messages – Translate or modify all denial messages
-✅ Modular Configs – Separate YAML files for each feature
-
-📦 Installation
-Download the latest .jar from Releases
-
-Place in your server's plugins/ folder
-
-Restart the server
-
-Configure YAML files in plugins/BlockRestrictions/configs/
+## Configuration
+Edit YAML files in `plugins/BlockRestrictions/configs/`:
