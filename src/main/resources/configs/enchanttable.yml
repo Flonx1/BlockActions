@@ -1,0 +1,5 @@
+REMOVE-ENCHANTS:
+  #- FEATHER_FALLING_1  -> the level of the effect
+
+
+enchant-permission: blockactions.enchant.access

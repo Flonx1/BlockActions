@@ -1,0 +1,11 @@
+CRAFTS:
+  #STICK:
+   # - 5
+   # - 8
+ # DIAMOND:
+   # - 1
+   # - 2
+   # - 3
+
+craft-permission: blockactions.crafting.access
+access-denied-message: "Извните но вы не можете это скрафтить"

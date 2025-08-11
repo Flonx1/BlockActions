@@ -1,0 +1,6 @@
+PLACE-BLOCKS-BLACKLIST:
+ # - DIAMOND_ORE
+
+
+place-permission: blockactions.placeblocks.access
+place-denied-message: "Извините вы не можете поставить данный блок"

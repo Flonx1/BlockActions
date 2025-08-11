@@ -1,0 +1,4 @@
+name: BlockActions
+version: '${project.version}'
+main: wtf.flonxi.Main
+api-version: '1.16'

@@ -1,0 +1,5 @@
+BLOCKS_DENIED :
+  #- NETHERITE_BLOCK
+
+destroy-denied-message: "Извините вы не можете сломать данный блок:)"
+destroy-permission: blockactions.destroy.access
